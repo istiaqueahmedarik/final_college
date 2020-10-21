@@ -188,17 +188,17 @@ i#click1 {
 }
 section#product {
     /* border: 1px solid; */
-    height: 417px;
+    height: 451px;
     background-color: #f5f6f6;
     /* margin-bottom: -2px; */
-    padding-bottom: 49px;
+    padding-bottom: 50px;
 }
 section.single_box {
     border: 1px solid #ded4d4;
-    height: 361px;
+    height: 360px;
     display: inline-block;
     width: 258px;
-    margin-top: 45px;
+    margin-top: 32px;
     padding: 2px;
     margin-right: 20px;
     background-color: white;
@@ -458,7 +458,7 @@ section.title {
     margin: 0 auto;
     font-size: 23px;
     color: black;
-    margin-top: 6px;
+    margin-top: 0px;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -469,7 +469,7 @@ section.title:after {
     width: 75px;
     background-color: #ff5200;
     position: absolute;
-    margin-left: 55px;
+    margin-left: 22px;
     margin-top: 2px;
 }
 section.sub-title {
@@ -805,6 +805,11 @@ section.copyright h5 {
     color: white;
 }
 
-
+.s_title {
+    /* margin-top: 3px; */
+    /* border: 1px solid; */
+    /* margin-top: 5px; */
+    padding-top: 12px;
+}
 
 
